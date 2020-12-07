@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/12/04 14:49:45.000.170,=C:\Users\Ghirelli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/04 14:52:52.000.202,C:\Users\Ghirelli\Documents\Embarcadero\Studio\Projects\Progetto crea orario\Unit1.dfm=C:\Users\Ghirelli\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/12/04 14:52:52.000.202,C:\Users\Ghirelli\Documents\Embarcadero\Studio\Projects\Progetto crea orario\Unit1.pas=C:\Users\Ghirelli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/12/04 14:52:54.000.139,C:\Users\Ghirelli\Documents\Embarcadero\Studio\Projects\Progetto crea orario\Project1.dproj=C:\Users\Ghirelli\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/12/04 17:11:13.000.858,=C:\Users\Ghirelli\Documents\Embarcadero\Studio\Projects\Progetto crea orario\Unit2.pas</Transaction>
+    <Transaction>2020/12/04 17:11:39.000.945,C:\Users\Ghirelli\Documents\Embarcadero\Studio\Projects\Progetto crea orario\EditArray.pas=C:\Users\Ghirelli\Documents\Embarcadero\Studio\Projects\Progetto crea orario\Unit2.pas</Transaction>
+    <Transaction>2020/12/04 17:23:26.000.544,=C:\Users\Ghirelli\Documents\Embarcadero\Studio\Projects\Progetto crea orario\Unit2.pas</Transaction>
+    <Transaction>2020/12/04 17:30:32.000.335,C:\Users\Ghirelli\Documents\Embarcadero\Studio\Projects\Progetto crea orario\ColonnaLavori.pas=C:\Users\Ghirelli\Documents\Embarcadero\Studio\Projects\Progetto crea orario\Unit2.pas</Transaction>
+    <Transaction>2020/12/04 17:30:32.000.335,C:\Users\Ghirelli\Documents\Embarcadero\Studio\Projects\Progetto crea orario\ColonnaLavori.dfm=C:\Users\Ghirelli\Documents\Embarcadero\Studio\Projects\Progetto crea orario\Unit2.dfm</Transaction>
+    <Transaction>2020/12/04 18:04:09.000.744,C:\Users\Ghirelli\Documents\Embarcadero\Studio\Projects\Progetto crea orario\EditArray.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
